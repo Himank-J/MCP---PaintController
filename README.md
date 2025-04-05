@@ -12,6 +12,7 @@ MCP - PaintController, an innovative painting application that combines a user-f
 
 ## Demo
 
+Watch the demo video here: [Demo Video](demo/demo.mov)
 
 ## Code Details
 
