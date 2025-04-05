@@ -11,8 +11,7 @@ MCP - PaintController, an innovative painting application that combines a user-f
 - We prompt our LLM to use right tools to open FreeFrom app, apply shapes, input text field and then finally right the output.
 
 ## Demo
-
-Watch the demo video here: [Demo Video](demo/demo.mov)
+[![Watch how Free Form MCP server works](https://img.youtube.com/vi/tmfRuCGf8kk/0.jpg)](https://www.youtube.com/watch?v=tmfRuCGf8kk)
 
 ## Code Details
 
